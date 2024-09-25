@@ -10,7 +10,7 @@ Python calculator using Google Gemini API for the AI and Tkinter for the GUI.
 -Tkinter
 
 ## Running
-In the geminiAI.py file, for the line "genai.configure(api_key="<KEY>")" replace the "<KEY>" with a Google Gemini API key.
+In the geminiAI.py file, for the line "genai.configure(api_key="")" replace the insert your Google Gemini API key into "" ("genai.configure(api_key="AIz3....hP")").
 
 On the command line, run "python main.py" with google.generativeai installed.
 
